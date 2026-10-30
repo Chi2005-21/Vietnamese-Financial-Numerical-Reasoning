@@ -129,8 +129,4 @@ If you use the original datasets, please also cite them.
 This project is released under the Apache License 2.0. See [`LICENSE`](LICENSE). The original datasets keep
 their own licenses (FinQA: MIT; ViNumQA: see its Kaggle page).
 
-## Acknowledgments
 
-The code base was started by Truong-Phuc Nguyen
-(<https://github.com/ntphuc149/NumReasoning4VietnameseFinancialText>), and Duong-Hieu Le contributed code and
-experiments as well. We thank them for their contributions.
